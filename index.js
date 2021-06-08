@@ -2031,7 +2031,7 @@ break
 case 'sn':
 const sn = ['sim', 'não']
 gosto = body.slice(3)
-if (args.length < 1) return client.sendMessage(from, `Você deve fazer uma pergunta...\nExemplo: ${prefix}sn O Skiller é um baiano preguiçoso?`, text, {quoted: mek})
+if (args.length < 1) return client.sendMessage(from, `Você deve fazer uma pergunta...\nExemplo: ${prefix}sn O Karib é um fumador de rivais?`, text, {quoted: mek})
 const jawab = sn[Math.floor(Math.random() * (sn.length))]
 hasil = `${gosto}\n\nSegundo meus cálculos, eu acredito que... ${jawab}`
 reply(hasil)

@@ -543,7 +543,7 @@ async function starts() {
 			reply("SOSA BABY")
 	}
 	
-		if (messagesC.includes("fredo santana")){
+		if (messagesC.includes("fredosantana")){
 			client.updatePresence(from, Presence.composing)
 			reply("Lenda! Rest In Power")
 	}
@@ -553,11 +553,11 @@ async function starts() {
 			reply("Rest In Power Grandson, The Story Continues")
 	}
 	
-		if (messagesC.includes("quando rondo")){
+		if (messagesC.includes("quandorondo")){
 			client.updatePresence(from, Presence.composing)
 			reply("Não fodemos com esse buceta do caralho")
 	}
-		if (messagesC.includes("bot morreu")){
+		if (messagesC.includes("botmorreu")){
 			client.updatePresence(from, Presence.composing)
 			reply("BRR BOP BOP, jamais serei fumado")
 	}
@@ -567,9 +567,9 @@ async function starts() {
 			reply("KTA! SIX BLOCK")
 	}
 			
-	        if (messagesC.includes("Bibby")){
+	        if (messagesC.includes("bigb")){
 			client.updatePresence(from, Presence.composing)
-			reply("Long Live Big B")
+			reply("Long Live Bibby")
 	}
 		if (messagesC.includes("23")){
 			client.updatePresence(from, Presence.composing)

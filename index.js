@@ -589,7 +589,7 @@ reply("Oi posso ajudar")
 	
 				if (messagesC.includes("sosa")){
 			client.updatePresence(from, Presence.composing)
-			tujuh = fs.readFileSync('./assets/sosa.mp3');
+			tujuh = fs.readFileSync('./assets/sosababy.mp3');
             client.sendMessage(from, tujuh, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 	}
 	

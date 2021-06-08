@@ -158,7 +158,7 @@ const help = (prefix) => {
 ┃Ⓢ  *${prefix}rankgay*
 ┃❗Utilidade-rank dos mais gays
 ┃Ⓢ  *${prefix}rankcaco*
-┃❗Utilidade-rank dos camaco ksks
+┃❗Utilidade-rank dos mamaco
 ┃
 ╠───〘 *⭐𝐕𝐈𝐏⭐* 〙──────
 ┃
@@ -180,14 +180,16 @@ const help = (prefix) => {
 ╠──〘 👾𝐈𝐍𝐓𝐄𝐑𝐀𝐂̧𝐀𝐎 👾〙────
 ┃
 ┃   *Mandar a msg sem o prefixo*
-┃ *Ⓢ bah*
-┃ *Ⓢ oii*
-┃ *Ⓢ bv*
-┃ *Ⓢ canta*
-┃ *Ⓢ grita*
-┃ *Ⓢ causs*
-┃ *Ⓢ gemidao*
-┃ *Ⓢ musica*
+┃ *Ⓢ von*
+┃ *Ⓢ sosa*
+┃ *Ⓢ whoismoke*
+┃ *Ⓢ foolio*
+┃ *Ⓢ crazystory*
+┃ *Ⓢ dontlike*
+┃ *Ⓢ keef*
+┃ *Ⓢ bigb*
+┃ *Ⓢ botmorreu*
+┃ *Ⓢ rondo*
 ┃
 ╠──✰〘 𝐃𝐑𝐈𝐋𝐋𝐀 𝐁𝐎𝐓 〙✰──
 ┃

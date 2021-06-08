@@ -538,35 +538,43 @@ async function starts() {
 	}
 	
 	
-	if (messagesC.includes("fdp")){
+	if (messagesC.includes("keef")){
 			client.updatePresence(from, Presence.composing)
-			reply("Teu pai aquele merda, quer ser fumado?")
+			reply("SOSA BABY")
 	}
 	
-		if (messagesC.includes("corno")){
+		if (messagesC.includes("fredo santana")){
 			client.updatePresence(from, Presence.composing)
-			reply("Comi sua mina ontem")
+			reply("Lenda! Rest In Power")
 	}
 	
-		if (messagesC.includes("tmnc")){
+		if (messagesC.includes("von")){
 			client.updatePresence(from, Presence.composing)
-			reply("Quer ser fumado seu merda?")
+			reply("Rest In Power Grandson, The Story Continues")
 	}
 	
-		if (messagesC.includes("vsfd")){
+		if (messagesC.includes("quando rondo")){
 			client.updatePresence(from, Presence.composing)
-			reply("Vou te fumar seu lixo")
+			reply("Não fodemos com esse buceta do caralho")
 	}
 		if (messagesC.includes("bot morreu")){
 			client.updatePresence(from, Presence.composing)
 			reply("BRR BOP BOP, jamais serei fumado")
 	}
 	
-		/*if (messagesC.includes("bot")){
+		if (messagesC.includes("foolio")){
 			client.updatePresence(from, Presence.composing)
-			reply("oi") */
-			//retirado pois responde dms kk
-	
+			reply("KTA! SIX BLOCK")
+	}
+			
+	        if (messagesC.includes("Bibby")){
+			client.updatePresence(from, Presence.composing)
+			reply("Long Live Big B")
+	}
+		if (messagesC.includes("23")){
+			client.updatePresence(from, Presence.composing)
+			reply("Happy Birthday, dead bitch")
+	}
 	
 	if (messagesC.includes("mt1")){
 		if (!isPremium) return reply(mess.only.premium)
@@ -2425,7 +2433,7 @@ case 'daftarvip':
 					if (!isPremium) return reply('Você não é um Membro Premium, entre em contato com o Karib ou digite *.Daftarvip* para adquirir o acesso Premium!' ,text, { quoted: mek })
 					me = client.user
 					uptime = process.uptime()
-					client.sendMessage(from,  `*──────────────────*\n*Nome do bot:* PRIVATE BOT\n*─────────────────*\n『 *𝐕𝐈𝐏 𝐔𝐒𝐄𝐑*』\n*──────────────────*\n*•Número:* *${sender.split("@s.whatsapp.net")[0]}*\n*•Status:* *ATIVO*\n*──────────────────*\n*Status Bot:* *${kyun(uptime)}*\n\n*VOCE É UM MEMBRO PREMIUM* 💨⛽\n*──────────────────*` , text, { quoted: mek, })
+					client.sendMessage(from,  `*──────────────────*\n*Nome do bot:* DRILLA BOT\n*─────────────────*\n『 *𝐕𝐈𝐏 𝐔𝐒𝐄𝐑*』\n*──────────────────*\n*•Número:* *${sender.split("@s.whatsapp.net")[0]}*\n*•Status:* *ATIVO*\n*──────────────────*\n*Status Bot:* *${kyun(uptime)}*\n\n*VOCE É UM MEMBRO PREMIUM* 💨⛽\n*──────────────────*` , text, { quoted: mek, })
 					break
 					case 'dono':
 					memein = await kagApi.memeindo()

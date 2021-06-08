@@ -1955,7 +1955,7 @@ mentions(teks, d, true)
 } catch (e) {
 console.log(e)
 reply('Deu erro, tente novamente :/')
-} */
+}
 case 'rankgado':
 try{
 if(!isGroup) return reply(mess.only.group)
@@ -2003,7 +2003,7 @@ mentions(teks, d, true)
 console.log(e)
 reply('Deu erro, tente novamente :/')
 }
-break
+break */
 case 'rankgay':
 try{
 if(!isGroup) return reply(mess.only.group)

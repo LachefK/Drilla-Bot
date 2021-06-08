@@ -1941,7 +1941,7 @@ console.log(e)
 reply('Deu erro, tente novamente :/')
 }
 break
-case 'rankcorno':
+/* case 'rankcorno':
 try{
 if(!isGroup) return reply(mess.only.group)
 d = []
@@ -1955,8 +1955,7 @@ mentions(teks, d, true)
 } catch (e) {
 console.log(e)
 reply('Deu erro, tente novamente :/')
-}
-break
+} */
 case 'rankgado':
 try{
 if(!isGroup) return reply(mess.only.group)

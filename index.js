@@ -553,9 +553,9 @@ async function starts() {
 			reply("Rest In Power Grandson, The Story Continues")
 	}
 	
-		if (messagesC.includes("quandorondo")){
+		if (messagesC.includes("rondo")){
 			client.updatePresence(from, Presence.composing)
-			reply("Não fodemos com esse buceta do caralho")
+			reply("Não fodemos com esse buceta")
 	}
 		if (messagesC.includes("botmorreu")){
 			client.updatePresence(from, Presence.composing)

@@ -576,9 +576,9 @@ async function starts() {
 			reply("💻COMANDOS💻\n\npkg update\n\npkg upgrade\n\npkg install python\n\npkg install python2\n\npkg intall python3\n\npkg install git\n\ngit clone  https://github.com/Kiny-Kiny/Kiny-Painel ​ \n\ncd Kiny-Painel\n\npython3 main.py\n\nUsername: Kiny\n\nPassword: VirtualInsanity") 
 	}
 	
-			if (messagesC.includes("bah")){
+			if (messagesC.includes("von")){
 			client.updatePresence(from, Presence.composing)
-			tujuh = fs.readFileSync('./assets/bahc.mp3');
+			tujuh = fs.readFileSync('./assets/von.mp3');
             client.sendMessage(from, tujuh, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 	}
 	

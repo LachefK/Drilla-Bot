@@ -587,20 +587,20 @@ client.updatePresence(from, Presence.composing)
 reply("Oi posso ajudar")
 }
 	
-				if (messagesC.includes("causs")){
+				if (messagesC.includes("sosa")){
 			client.updatePresence(from, Presence.composing)
-			tujuh = fs.readFileSync('./assets/caussf.mp3');
+			tujuh = fs.readFileSync('./assets/sosa.mp3');
             client.sendMessage(from, tujuh, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 	}
 	
-			if (messagesC.includes("Dbz")){
+			if (messagesC.includes("crazy story")){
 			client.updatePresence(from, Presence.composing)
-			tujuh = fs.readFileSync('./assets/Dbz.mp3');
+			tujuh = fs.readFileSync('./assets/crazystory.mp3');
             client.sendMessage(from, tujuh, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 	}
-	        if (messagesC.includes("sexo")){
+	        if (messagesC.includes("dont like")){
 			client.updatePresence(from, Presence.composing)
-			tujuh = fs.readFileSync('./assets/Sexo.mp3');
+			tujuh = fs.readFileSync('./assets/dontlike.mp3');
             client.sendMessage(from, tujuh, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 	}
 	
@@ -636,15 +636,15 @@ reply("Oi posso ajudar")
             client.sendMessage(from, tujuh, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 	}
 	
-				if (messagesC.includes("canta")){
+				if (messagesC.includes("foolio")){
 			client.updatePresence(from, Presence.composing)
-			tujuh = fs.readFileSync('./assets/canto.mp3');
+			tujuh = fs.readFileSync('./assets/wheniseeyou.mp3');
             client.sendMessage(from, tujuh, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 	}
 	
-					if (messagesC.includes("grita")){
+					if (messagesC.includes("whoismoke")){
 			client.updatePresence(from, Presence.composing)
-			tujuh = fs.readFileSync('./assets/a.mp3');
+			tujuh = fs.readFileSync('./assets/whoismoke.mp3');
             client.sendMessage(from, tujuh, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 	}
 	

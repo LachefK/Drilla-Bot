@@ -3,7 +3,7 @@ const help = (prefix) => {
 ⊱ ────── {*𝐃𝐑𝐈𝐋𝐋𝐀 𝐁𝐎𝐓*} ────── ⊰
 ┃〘* 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐂𝐎𝐄𝐒 *〙
 ╠👑 *DRILLA BOT*
-╠👑 *dono Karib*
+╠👑 *Dono: Karib*
 ╠👑 *wa.me/+5521969395519*
 ╠👑 *status: ON*
 ╠👑 *BOT ESTA EM TESTES*
@@ -46,6 +46,8 @@ const help = (prefix) => {
 ┃❗Utilidade sua % de feio
 ┃Ⓢ *${prefix}%gay*
 ┃❗Utilidade sua % de gay
+┃Ⓢ *${prefix}%drilla*
+┃❗Utilidade sua % de drilla
 ┃Ⓢ *${prefix}antilink [1/0]*
 ┃❗Utilidade Anti links 
 ┃Ⓢ  *${prefix}antifake [1/0]*
@@ -157,6 +159,8 @@ const help = (prefix) => {
 ┃❗Utilidade-rank dos mais gays
 ┃Ⓢ  *${prefix}rankcaco*
 ┃❗Utilidade-rank dos mamaco
+┃Ⓢ  *${prefix}rankdrilla*
+┃❗Utilidade-rank dos drilla
 ┃
 ╠───〘 *⭐𝐕𝐈𝐏⭐* 〙──────
 ┃
@@ -164,6 +168,8 @@ const help = (prefix) => {
 ┃❗Utilidade-cassino para vips
 ┃Ⓢ  *${prefix}dado*
 ┃❗Utilidade-dado adicional vip
+┃Ⓢ  *${prefix}menuvip*
+┃❗Utilidade-abre menu vip
 ┃
 ╠───〘 *👑𝐃𝐎𝐍𝐎👑* 〙──────
 ┃

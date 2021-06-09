@@ -1941,6 +1941,22 @@ console.log(e)
 reply('Deu erro, tente novamente :/')
 }
 break
+case 'rankdrilla':
+try{
+if(!isGroup) return reply(mess.only.group)
+d = []
+teks = '🔪 Rank dos drillas\n'
+for(i = 0; i < 5; i++) {
+r = Math.floor(Math.random() * groupMetadata.participants.length + 0)
+teks += `️‍🔪❧ @${groupMembers[r].jid.split('@')[0]}\n`
+d.push(groupMembers[r].jid)
+}
+mentions(teks, d, true)
+} catch (e) {
+console.log(e)
+reply('Deu erro, tente novamente :/')
+}
+break
 /* case 'rankcorno':
 try{
 if(!isGroup) return reply(mess.only.group)

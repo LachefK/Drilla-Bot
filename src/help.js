@@ -168,7 +168,7 @@ const help = (prefix) => {
 ┃❗Utilidade-cassino para vips
 ┃Ⓢ  *${prefix}dado*
 ┃❗Utilidade-dado adicional vip
-┃Ⓢ  *${prefix}menuvip*
+┃Ⓢ  *${prefix}vipmenu*
 ┃❗Utilidade-abre menu vip
 ┃
 ╠───〘 *👑𝐃𝐎𝐍𝐎👑* 〙──────

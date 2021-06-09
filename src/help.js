@@ -7,9 +7,7 @@ const help = (prefix) => {
 ╠👑 *wa.me/+5521969395519*
 ╠👑 *status: ON*
 ╠👑 *BOT ESTA EM TESTES*
-╠👑 *pix 88993367542*
-╠👑 *caso for ajudar*
-╠👑 *86 comandos obs no menu*
+╠👑 *Siga @realcrib_ para acompanhar os mais reais drillas*
 ┃
 ╠──🌹〘 *𝐍𝐎𝐕𝐈𝐃𝐀𝐃𝐄𝐒* 〙🌹──
 ┃❗𝐌𝐄𝐍𝐔 𝐑𝐄𝐅𝐎𝐑𝐌𝐔𝐋𝐀𝐃𝐎❗

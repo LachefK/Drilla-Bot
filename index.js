@@ -2117,6 +2117,13 @@ case '%gado':
 					var kl = ti[Math.floor(Math.random() * ti.length)]
 					client.sendMessage(from, 'tu e gado(a) será?: *'+rate+'*\n\nSua porcentagem de gado é : '+ kl+'%😏\n maluco falta comer um buraco na parede kkk', text, { quoted: mek })
 					break
+case '%drilla':		
+	            	if (args.length < 1) return reply('marque um drilla!')
+					rate = body.slice(6)
+					var ti =['4','9','17','28','34','48','59','62','74','83','97','100','29','94','75','82','41','39']
+					var kl = ti[Math.floor(Math.random() * ti.length)]
+					client.sendMessage(from, 'tu e drilla será?: *'+rate+'*\n\nSua porcentagem de drilla é : '+ kl+'%🔪\n maluco falta comer um buraco na parede kkk', text, { quoted: mek })
+					break					
 				
 				//_FIM DOS JOGOS
 

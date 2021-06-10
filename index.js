@@ -2459,7 +2459,7 @@ case 'daftarvip':
 					break
 					case 'dono':
 					memein = await kagApi.memeindo()
-					buffer = await getBuffer(`https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4V_4fdvF8rluX0T3KKGOvY0TusMwx7nVWtw&usqp=CAU`)
+					buffer = await getBuffer(`https://i.redd.it/i5h6oa1exkf51.jpg`)
 					client.sendMessage(from, buffer, image, {quoted: mek, caption: '*CRIADOR:* KARIB\n*WPP:* wa.me/+5521969395519\n*INSTA:* @menacefrmda803\n\n\nEspero que tenham gostado do bot 💨⛽️'})
 					break
 				//_IMAGENS

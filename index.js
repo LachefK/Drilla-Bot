@@ -1696,8 +1696,8 @@ case 'musica':
                 play = body.slice(5)
                 anu = await fetchJson(`https://api.zeks.xyz/api/ytplaymp3?q=${play}&apikey=apivinz`)
                if (anu.error) return reply(anu.error)
-                 infomp3 = `*MUSICA ENCONTRADA!!!*\nTítulo : ${anu.result.title}\nUrl : ${anu.result.source}\nTamanho : ${anu.result.size}\n\nKARIB 𝙳𝚘𝚖𝚒𝚗𝚊 🌴
-𝙰 𝙼𝚄́𝚂𝙸𝙲𝙰 𝙿??𝙳??𝙳𝙰 𝙴𝚂𝚃𝙰́ 𝚂𝙴??𝙳𝙾 𝙱𝙰𝙸𝚇𝙰𝙳𝙰`
+                 infomp3 = `*MUSICA ENCONTRADA!!!*\nTítulo : ${anu.result.title}\nUrl : ${anu.result.source}\nTamanho : ${anu.result.size}\n\nKARIB DOMINA 🌴
+BAIXANDO...`
                 buffer = await getBuffer(anu.result.thumbnail)
                 lagu = await getBuffer(anu.result.url_audio)
                 client.sendMessage(from, buffer, image, {quoted: mek, caption: infomp3})

@@ -7,7 +7,7 @@ const help = (prefix) => {
 ╠👑 *wa.me/+5521969395519*
 ╠👑 *status: ON*
 ╠👑 *BOT ESTA EM TESTES*
-╠👑 *Siga @realcrib_ para acompanhar os mais reais drillas*
+╠👑 *Siga @realcrib_ para acompanhar os trabalhos de In The Crib (coletivo que o dono do bot participa)*
 ┃
 ╠──🌹〘 *𝐍𝐎𝐕𝐈𝐃𝐀𝐃𝐄𝐒* 〙🌹──
 ┃❗𝐌𝐄𝐍𝐔 𝐑𝐄𝐅𝐎𝐑𝐌𝐔𝐋𝐀𝐃𝐎❗
@@ -16,7 +16,7 @@ const help = (prefix) => {
 ╠────────────────────
 ┃Ⓢ  *${prefix}dono*
 ┃Ⓢ  *${prefix}owner*
-┃Ⓢ  *${prefix}ajudantes*
+┃Ⓢ  *${prefix}inthecrib*
 ┃
 ╠───〘 *💌𝐒𝐓𝐈𝐂𝐊𝐄𝐑𝐒💌* 〙──────
 ┃

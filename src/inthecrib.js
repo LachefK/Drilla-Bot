@@ -15,4 +15,4 @@ const inthecrib = () => {
 ╚═══════════════════════════
 `
 }
-exports.ajudantes = ajudantes
+exports.inthecrib = inthecrib

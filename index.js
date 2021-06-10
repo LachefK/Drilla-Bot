@@ -2122,7 +2122,7 @@ case '%drilla':
 					rate = body.slice(6)
 					var ti =['4','9','17','28','34','48','59','62','74','83','97','100','29','94','75','82','41','39']
 					var kl = ti[Math.floor(Math.random() * ti.length)]
-					client.sendMessage(from, 'tu e drilla será?: *'+rate+'*\n\nSua porcentagem de drilla é : '+ kl+'%🔪\n maluco falta comer um buraco na parede kkk', text, { quoted: mek })
+					client.sendMessage(from, 'tu e drilla será?: *'+rate+'*\n\nSua porcentagem de drilla é : '+ kl+'%🔪\n real fumador de opps', text, { quoted: mek })
 					break					
 				
 				//_FIM DOS JOGOS
@@ -2159,7 +2159,7 @@ case 'premiumlist':
 					for (let V of premium) {
 						teks += `│+  @${V.split('@')[0]}\n`
 					}
-					teks += `│+ Total : ${premium.length}\n╰──────*「 *CAUSS BOT* 」*────`
+					teks += `│+ Total : ${premium.length}\n╰──────*「 *DRILLA BOT* 」*────`
 					client.sendMessage(from, teks.trim(), extendedText, {quoted: mek, contextInfo: {"mentionedJid": premium}})
 					break
 case 'utils':

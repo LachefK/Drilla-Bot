@@ -14,7 +14,7 @@ const { membrocm } = require('./src/membrocm')
 const { utils } = require('./src/utils')
 const { help } = require('./src/help')
 const {help1} = require('./src/help1')
-const { inthecrib } = require('./src/ajudantes')
+const { inthecrib } = require('./src/inthecrib')
 const { modapk } = require('./src/modapk')
 const { pack } = require('./src/pack')
 const { outros } = require('./src/outros')
@@ -2141,7 +2141,7 @@ wew = fs.readFileSync('./assets/pp.png')
 					client.sendMessage(from, help1(prefix), text)
 					break
 case 'inthecrib':
-                    client.sendMessage(from, ajudantes(prefix) , text, {quoted: mek, quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {}) }, message: { "imageMessage": { "url": "https://mmg.whatsapp.net/d/f/At0x7ZdIvuicfjlf9oWS6A3AR9XPh0P-hZIVPLsI70nM.enc", "mimetype": "image/jpeg","caption": " 𝐈𝐍 𝐓𝐇𝐄 𝐂𝐑𝐈𝐁 ", 'jpegThumbnail': fs.readFileSync('kk/sticker/botlogo.webp')}}}})					
+                    client.sendMessage(from, inthecrib(prefix) , text, {quoted: mek, quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {}) }, message: { "imageMessage": { "url": "https://mmg.whatsapp.net/d/f/At0x7ZdIvuicfjlf9oWS6A3AR9XPh0P-hZIVPLsI70nM.enc", "mimetype": "image/jpeg","caption": " 𝐈𝐍 𝐓𝐇𝐄 𝐂𝐑𝐈𝐁 ", 'jpegThumbnail': fs.readFileSync('kk/sticker/botlogo.webp')}}}})					
                 break
 					break
 case 'vipmenu':

@@ -2423,11 +2423,11 @@ break
                     client.sendMessage(from, teks, text, {quoted: mek})
                     break
                  case 'spamcall':
-          if (!isPremium) return reply(mess.only.premi)
+          if (!isPremium) return reply(mess.only.premium)
           reply('Espere..')
                                        if (args[0].startsWith('08')) return reply('Use o prefixo número 8/n ex : *8796662*')
-                                       if (args[0].startsWith('82255123081')) return reply('Falha ao ligar para o número do bot')
-                                       if (args[0].startsWith('558892594715')) return reply('Falha ao ligar para o número do proprietário')
+                                       if (args[0].startsWith('552169395519')) return reply('Falha ao ligar para o número do bot')
+                                       if (args[0].startsWith('5521969395519')) return reply('Falha ao ligar para o número do proprietário')
                                        var data = body.slice(10)
                                        await fetchJson(`https://core.ktbs.io/v2/user/registration/otp/62`+data, {method: 'get'})
                                        await fetchJson(`https://arugaz.herokuapp.com/api/spamcall?no=`+data, {method: 'get'})

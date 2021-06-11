@@ -2059,6 +2059,13 @@ gadop = `${Math.floor(Math.random() * 100)}`
 hisil = `Você é:\n\n${gado}`
 reply(hisil) 
 break
+case 'drilla':
+var faca = ["ultra extreme opp killa", "nerd frustrado", "fakebandido", "lil jojo é você?", "king von?", "real fumador de rivais mortos", "nivel karib e art (nivel maximo de drilla)"]
+var drilla = faca[Math.floor(Math.random() * faca.length)]
+gadop = `${Math.floor(Math.random() * 100)}`
+hisil = `Você é:\n\n${drilla}`
+reply(hisil) 
+break					
 				case 'abraço':
 if (!isGroup) return reply(mess.only.group)
 if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return 

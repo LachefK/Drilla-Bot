@@ -58,6 +58,8 @@ const help = (prefix) => {
 ┃❗Utilidade-shippa um casal aleatorio
 ┃Ⓢ *${prefix}paixao*
 ┃❗Utilidade-diz a porcentagem de paixão
+┃Ⓢ *${prefix}omais*
+┃❗Utilidade-sorteia alguem para o mais
 ┃Ⓢ *${prefix}gostosas*
 ┃❗Utilidade-as gostosas do grupo
 ┃Ⓢ *${prefix}gado*

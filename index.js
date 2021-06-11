@@ -1957,6 +1957,16 @@ console.log(e)
 reply('Deu erro, tente novamente :/')
 }
 break
+case 'omais':				
+membr = []
+const mett = groupMembers
+const msdd = groupMembers
+const siapssa = mett[Math.floor(Math.random() * mett.length)]
+const sipssd = pushname[Math.floor(Math.random() * msdd.length)]
+bbebn = `O mais${body.slice(6)} é o(a): @${siapssa.jid.split('@')[0]}`
+membr.push(siapssa.jid)
+mentions(bbebn, membr, true)
+break    					
 /* case 'rankcorno':
 try{
 if(!isGroup) return reply(mess.only.group)

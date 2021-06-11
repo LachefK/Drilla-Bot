@@ -2141,7 +2141,7 @@ wew = fs.readFileSync('./assets/pp.png')
 					client.sendMessage(from, help1(prefix), text)
 					break
 case 'inthecrib':
-                    client.sendMessage(from, inthecrib(prefix) , text, {quoted: mek, quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {}) }, message: { "imageMessage": { "url": "https://mmg.whatsapp.net/d/f/At0x7ZdIvuicfjlf9oWS6A3AR9XPh0P-hZIVPLsI70nM.enc", "mimetype": "image/jpeg","caption": " 𝐈𝐍 𝐓𝐇𝐄 𝐂𝐑𝐈𝐁 ", 'jpegThumbnail': fs.readFileSync('kk/sticker/botlogo.webp')}}}})					
+                    client.sendMessage(from, inthecrib(prefix) , text, {quoted: mek, quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {}) }, message: { "imageMessage": { "url": "https://mmg.whatsapp.net/d/f/At0x7ZdIvuicfjlf9oWS6A3AR9XPh0P-hZIVPLsI70nM.enc", "mimetype": "image/jpeg","caption": " 𝐈𝐍 𝐓𝐇𝐄 𝐂𝐑𝐈𝐁 ", 'jpegThumbnail': fs.readFileSync('kk/sticker/images.webp')}}}})					
                 break
 					break
 case 'vipmenu':
@@ -2152,7 +2152,7 @@ case 'vipmenu':
 					client.sendMessage(from, outros(prefix) , text, { quoted: mek })
 					break
 					case 'menu2':
-					client.sendMessage(from, menu2(prefix) , text, {quoted: mek, quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {}) }, message: { "imageMessage": { "url": "https://mmg.whatsapp.net/d/f/At0x7ZdIvuicfjlf9oWS6A3AR9XPh0P-hZIVPLsI70nM.enc", "mimetype": "image/jpeg","caption": " MENU 2", 'jpegThumbnail': fs.readFileSync('kk/sticker/botlogo.webp')}}}})					
+					client.sendMessage(from, menu2(prefix) , text, {quoted: mek, quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {}) }, message: { "imageMessage": { "url": "https://mmg.whatsapp.net/d/f/At0x7ZdIvuicfjlf9oWS6A3AR9XPh0P-hZIVPLsI70nM.enc", "mimetype": "image/jpeg","caption": " MENU 2", 'jpegThumbnail': fs.readFileSync('kk/sticker/images.webp')}}}})					
                 break
 case 'premiumlist':
 					teks = '╭────*「 *𝐕𝐢𝐩𝐬👑* 」\n'

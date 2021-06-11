@@ -2133,10 +2133,9 @@ case '%drilla':
 					break
 case 'paixao':		
 	            	if (args.length < 1) return reply('marque seu par!')
-					rate = body.slice(6)
 					var ti =['4','9','17','28','34','48','59','62','74','83','97','100','29','94','75','82','41','39']
 					var kl = ti[Math.floor(Math.random() * ti.length)]
-					client.sendMessage(from, 'será que se amam mesmo?: *'+rate+'*\n\nPorcentagem de paixão é : '+ kl+'%❤️\n', text, { quoted: mek })
+					client.sendMessage(from, 'será que se amam mesmo?:\n\nPorcentagem de paixão é : '+ kl+'%❤️\n', text, { quoted: mek })
 					break					
 				
 				//_FIM DOS JOGOS

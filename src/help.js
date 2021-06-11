@@ -56,6 +56,8 @@ const help = (prefix) => {
 ┃❗Utilidade sem spammers
 ┃Ⓢ *${prefix}pombinhos*
 ┃❗Utilidade-shippa um casal aleatorio
+┃Ⓢ *${prefix}paixao*
+┃❗Utilidade-diz a porcentagem de paixão
 ┃Ⓢ *${prefix}gostosas*
 ┃❗Utilidade-as gostosas do grupo
 ┃Ⓢ *${prefix}gado*
@@ -111,7 +113,7 @@ const help = (prefix) => {
 ┃
 ╠───〘 *🎶𝐏𝐋𝐀𝐘𝐒🎶* 〙──────
 ┃
-┃Ⓢ  *${prefix}play*
+┃Ⓢ  *${prefix}musica*
 ┃❗Utilidade Baixa música
 ┃Ⓢ  *${prefix}estourar*
 ┃❗Utilidade-deixa audio estourado
@@ -143,8 +145,6 @@ const help = (prefix) => {
 ┃Ⓢ  *${prefix}pmake*
 ┃Ⓢ  *${prefix}plaquinha* 
 ┃❗Utilidade-fazer suas plaquinhas
-┃Ⓢ  *${prefix}ajudantes* 
-┃❗Utilidade-todos que ajudaram na criação do bot
 ┃Ⓢ  *${prefix}pack18*
 ┃❗Utilidade-packs de +18
 ┃Ⓢ  *${prefix}alugar*
